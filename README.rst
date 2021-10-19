@@ -1,6 +1,6 @@
 Uniswap 2 Pools
 =====
-This script allows you to get json-file with all liquidity pools from Uniswap 2
+This script allows you to get json-file with all liquidity pools' addresses from Uniswap 2
 
 Installation
 ---------
