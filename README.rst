@@ -1,6 +1,6 @@
 Uniswap 2 Pools
 =====
-This script allows you to get json-file with all liquidity pools' addresses from Uniswap 2
+This script allows you to get json-file with all liquidity pools' addresses from Uniswap 2.
 
 Installation
 ---------
@@ -12,7 +12,7 @@ Create and activate a virtual environment, install the required libraries:
 
 Customization
 ---------
-Add your provider's URL to the virtual environment
+Add your provider's URL to the virtual environment:
 
 .. code-block:: python
 
