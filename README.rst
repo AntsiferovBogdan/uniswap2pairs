@@ -4,7 +4,7 @@ This script allows you to get json-file with all liquidity pools' addresses from
 
 Installation
 ---------
-Create and activate a virtual environment, install the required libraries::
+Create and activate a virtual environment, install the required libraries:
 
 .. code-block:: text
 
